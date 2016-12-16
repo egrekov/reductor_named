@@ -1,0 +1,3 @@
+PATH=/etc:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
+
+0,15,25,45 * * * * root /opt/named_client/client.sh
